@@ -1,7 +1,5 @@
 # cafe-ex
 
-[Demo](https://khushbu-2112.github.io/vue.js-vuex-ex/.)
-
 ## Project setup
 ```
 npm install
