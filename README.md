@@ -1,6 +1,6 @@
 # cafe-ex
 
-[Demo](https://khushbu-2112.github.io/vue.js-vuex-ex/)
+See the example working here: [Demo](https://khushbu-2112.github.io/vue.js-vuex-ex/)
 
 ## Project setup
 ```
