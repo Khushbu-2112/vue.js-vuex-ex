@@ -12,7 +12,7 @@ Vue.use(VueRouter)
       redirect: 'home',
     },
     {
-      path: '/vue.js-vuex-ex',//for github demo
+      path: '/vue.js-vuex-ex/',//for github demo
       redirect: 'home',
     },
     {
@@ -29,6 +29,10 @@ Vue.use(VueRouter)
       path: '/about',
       name: 'data',
       component: data
+    },
+    {
+      path: '*',
+      redirect: 'home'
     }
 ]
 
