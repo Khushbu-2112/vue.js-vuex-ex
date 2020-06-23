@@ -8,10 +8,6 @@ Vue.use(VueRouter)
 
   const routes = [
     {
-      path: '/',
-      redirect: 'home',
-    },
-    {
       path: '/vue.js-vuex-ex/',//for github demo
       redirect: 'home',
     },
